@@ -5,6 +5,8 @@ description: Assignment to observe an engineer in order to obtain a better under
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d35a49d9eceb213cd3da5b560e0d4982_assign_3.pdf
 file_size: 151689
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture presentation on getting work from a large firm perspective 
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/049bacd59b15a9fbeee71f2e9359ae13_lec_04_wv.pdf
 file_size: 880948
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

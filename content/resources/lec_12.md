@@ -5,6 +5,8 @@ description: Lecture presentation on the engineering and construction industry b
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d11dac3bbebc5a1c95abf17b0a8658b7_lec_12.pdf
 file_size: 225186
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

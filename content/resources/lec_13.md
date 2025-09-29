@@ -5,6 +5,8 @@ description: Lecture presentation on strategic management issues in the engineer
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/7c00a76793456009fb2aeaa4d46a870d_lec_13.pdf
 file_size: 215778
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
