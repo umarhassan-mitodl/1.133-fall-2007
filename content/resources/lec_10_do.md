@@ -4,8 +4,6 @@ description: Lecture presentation on interviewing skills by guest lecturer Dick 
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/97d7d153fde92bf18a58ffa258f2b86f_lec_10_do.pdf
 file_size: 102835
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

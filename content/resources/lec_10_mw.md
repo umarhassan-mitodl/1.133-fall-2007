@@ -5,8 +5,6 @@ description: Lecture presentation on interviewing basics from a human resources 
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/f8cc967be63a004b80300bc7a40bb880_lec_10_mw.pdf
 file_size: 459934
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

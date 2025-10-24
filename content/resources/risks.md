@@ -5,8 +5,6 @@ description: Supplementary lecture notes on dealing with uncertainty, sensitivit
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/a123c34fe029d4ae19f848b1dfc47a05_risks.pdf
 file_size: 158496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
